@@ -19,3 +19,6 @@ Estoy emocionado de seguir creciendo profesionalmente y enfrentar nuevos desafí
 <a href="linkedin.com/in/ezequiel-alarcón-mejía-520580255
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://www.instagram.com/eze_alarcon98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="ezequielalarconmejia@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a><span>&nbsp;</span>
+<a href="https://wa.link/0lx92y"> <img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="3.5%"/></a><span>&nbsp;</span>
+    
