@@ -23,7 +23,14 @@ Estoy emocionado de seguir creciendo profesionalmente y enfrentar nuevos desafí
 <a href="https://wa.link/0lx92y"> <img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="3.5%"/></a><span>&nbsp;</span>
     
 <h1>Sistemas Operativos 🐧 : <h1/>
+ </p>
 <br>
 <p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+ <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
 <br>
+<p align='center'>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
