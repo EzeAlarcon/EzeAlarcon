@@ -59,3 +59,9 @@ Estoy emocionado de seguir creciendo profesionalmente y enfrentar nuevos desafí
 <img src="https://img.shields.io/badge/Spring_Cloud-%234ea94b.svg?style=for-the-badge&logo=spring-cloud&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+<br/>
+<h1> Nivel de trabajo bajo metricas </h1>
+<a align="center" href="https://github.com/EzeAlarcon">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=EzeAlarcon&show_icons=true&theme=radical" />
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzeAlarcon&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
