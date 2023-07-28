@@ -11,3 +11,6 @@ Estoy emocionado de seguir creciendo profesionalmente y enfrentar nuevos desafí
 
 ¡Gracias por tu tiempo y saludos cordiales!
 <p/>
+<br/>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="left">
