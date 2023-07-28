@@ -22,3 +22,8 @@ Estoy emocionado de seguir creciendo profesionalmente y enfrentar nuevos desafí
 <a href="ezequielalarconmejia@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a><span>&nbsp;</span>
 <a href="https://wa.link/0lx92y"> <img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" width="3.5%"/></a><span>&nbsp;</span>
     
+<h1>Sistemas Operativos 🐧 : <h1/>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
