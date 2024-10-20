@@ -98,6 +98,9 @@
   <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EzeAlarcon&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EzeAlarcon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <h4> Reach me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">  <h4>
 <p align="left">
 
