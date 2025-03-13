@@ -16,9 +16,9 @@
 <h2 style="color: #800080;">Sobre Mi</h2>
 
 <h6 style="color: #800080;">💬 I'm a passionate and self-taught person who likes to create and design things</h6>
-<h6 style="color: #800080;">🧙‍ Actualmente estoy trabajando con: JS, NodeJs,Expres, PHP, Laravel, C#, .Net 6,7, Java, SpringBoot, Django  React, Angular, Vue En Desarrollo movil React Native y JetPackCompose, AWS y Docker </h6>
+<h6 style="color: #800080;">🧙‍ Actualmente estoy trabajando con: JS, NodeJs,Expres, PHP, Laravel, Python, Django, Fastapi  React, Angular,  En Desarrollo movil React Native y JetPackCompose, AWS y Docker </h6>
 <h6 style="color: #800080;">🌱 Actualmente estoy aprendiendo: Kubernetes </h6>
-<h6 style="color: #800080;">💻 ctualmente trabajo como Desarrollador semi Senior en campos de telecomunicaciones, sector salud, y fintech </h6>
+<h6 style="color: #800080;">💻 actualmente trabajo como Desarrollador semi Senior en campos de telecomunicaciones, sector salud, y fintech </h6>
 <h6 style="color: #800080;">🏆 En el futuro: Me gustaría ser un Líder Tecnológico <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"></h6>
 
 <br>
@@ -37,17 +37,16 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>  
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>  
 
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/.net%206%20&%207-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/java-%23E34A86.svg?style=for-the-badge&logo=java&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>  
 
   <img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
   <img src="https://img.shields.io/badge/angular-%23333.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031"/>  
-  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/>  
+  
   <img src="https://img.shields.io/badge/react%20native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  
-  <img src="https://img.shields.io/badge/jetpack%20compose-%2300F1F2.svg?style=for-the-badge&logo=jetpack&logoColor=black"/>  
+  
 
   <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>  
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
